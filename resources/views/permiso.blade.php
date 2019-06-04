@@ -1,1 +1,1 @@
-Sistema de permisos 
+Hola {{$nombre}}
